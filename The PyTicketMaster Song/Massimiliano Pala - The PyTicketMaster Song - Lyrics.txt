@@ -1,0 +1,31 @@
+[Intro]  
+
+[Verse 1]
+Code on the screen, tickets pile high  
+We chase the bugs, but the docs never lie  
+Every sprint ends with a note of 'done'  
+But the story's lost in the backlog's hum  
+
+[Pre‑Chorus]  
+We dream of a tool that writes the code  
+A ticket that sings, no more paperwork  
+
+[Chorus - high energy]
+PyTicketMaster, the hero of the day  
+It writes the tickets, no more dismay  
+We plan, we code, we celebrate  
+With AI, the workflow's bright and gay  
+
+[Bridge]
+No more endless logs, no more sighs  
+We dance in the code, the future's bright  
+
+[Final Chorus - high energy]  
+PyTicketMaster, the hero of the day  
+It writes the tickets, no more dismay  
+We plan, we code, we celebrate  
+With AI, the workflow's bright and gay  
+
+[Outro]
+So raise your keyboards, sing the code  
+And let the tickets flow like a dream
